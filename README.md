@@ -8,3 +8,5 @@ Sensor Interfacing   https://github.com/sagnik765/Sensor-Interfacing-for-Displac
 DC Motor Interference    https://github.com/sagnik765/DC-Motor-Interference
 
 Temperature Sensing Interface    https://github.com/sagnik765/Temperature-Sensing-Interface-with-Arduino
+
+Servo Motor Interfacing    https://github.com/sagnik765/Servo-Motor-Interfacing
