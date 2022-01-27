@@ -3,7 +3,7 @@ All my Projects on Arduino
 
 1. Real Time Data Acquisition Application for a Hybrid Vehicle (Major Project)    https://github.com/sagnik765/Real-time-Data-Acquisition-App
 
-2. Automatic Room Temperature Controller (Major Project)   https://github.com/sagnik765/Automatic-Room-Temperature-Controller
+2. Automatic Room Temperature Controller (Mini Project)   https://github.com/sagnik765/Automatic-Room-Temperature-Controller
 
 3. Sensor Interfacing   https://github.com/sagnik765/Sensor-Interfacing-for-Displacement-Measurement
 
